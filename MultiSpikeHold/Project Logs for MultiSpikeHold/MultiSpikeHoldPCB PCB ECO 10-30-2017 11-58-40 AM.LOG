@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1812(4532)230_L New Footprint=CAPC1005X55X25LL05T10
+Change component parameters: Designator = "C1"; Footprint = "CAPC1005X55X25LL05T10"; UniqueID = "\DTPNLRVK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "680 pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case\/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H681KA01-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Basic Passives"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM155R71H681KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type (Capacitors)"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component C7 CAP 680pF 50V
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component C13 0.01uF
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component C14 1uF
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component C15 1uF
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component D17 Diode 1N4005
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component D18 Diode 1N4005
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component D19 1N4757A
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component D20 1N4757A
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component P3 53261-0271
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component P5 53261-0271
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component Q17 MMBTA42LT1G
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component Q18 MMBTA42LT1G
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component Q19 MJD122T4G
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component Q20 MJD122T4G
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R12 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R16 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R17 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R21 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R26 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R29 10K
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R30 Res1
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R31 Res1
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R32 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R35 330
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component U5 NE555DR
