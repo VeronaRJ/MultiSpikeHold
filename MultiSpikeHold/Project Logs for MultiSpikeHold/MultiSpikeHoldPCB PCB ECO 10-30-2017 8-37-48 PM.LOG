@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R5 4.7 k
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R15 RC0805FR-074K7L
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R19 4.7 k
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R30 4.7 k
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component R36 4.7 k
