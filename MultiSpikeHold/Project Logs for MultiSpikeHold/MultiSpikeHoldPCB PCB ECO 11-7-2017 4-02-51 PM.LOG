@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+ Valve 2 Pin=D8-2
+Removed Member From Class: ClassName=MultiSpikeHoldSchem Member=D8
+Added Pin To Net: NetName=+ Valve 2 Pin=D89-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=D89-1
+Added Net: Name=NetD10_1
