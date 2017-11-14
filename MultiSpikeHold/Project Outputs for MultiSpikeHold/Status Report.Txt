@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [MultiSpikeHold.PrjPcb]
+   Generated File[MultiSpikeHoldPCB.BOM]
+   Generated File[MultiSpikeHoldPCB.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:38:33 PM On 11/14/2017
