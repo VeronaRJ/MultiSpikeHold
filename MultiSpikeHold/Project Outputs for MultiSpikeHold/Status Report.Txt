@@ -1,11 +1,9 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [MultiSpikeHold.PrjPcb]
-   Generated File[MultiSpikeHoldPCB.BOM]
-   Generated File[MultiSpikeHoldPCB.CSV]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 5:38:33 PM On 11/14/2017
+Finished Output Generation At 2:59:24 PM On 11/19/2017
