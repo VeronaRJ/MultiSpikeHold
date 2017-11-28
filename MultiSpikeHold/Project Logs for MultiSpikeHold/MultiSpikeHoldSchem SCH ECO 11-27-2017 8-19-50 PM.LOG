@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=PC-1-H1_4 Old Net=NetPC-1_H1_4 New Net=Signal + 2
+Add Pin To Net: Pin=PC-1-H1_6 Old Net=NetPC-1_H1_6 New Net=Signal + 4
