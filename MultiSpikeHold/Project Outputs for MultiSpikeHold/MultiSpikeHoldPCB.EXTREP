@@ -1,0 +1,121 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: MultiSpikeHoldPCB.GBR   12/13/2017  3:43:49 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTP1               Top Paste                               
+.GTP2               Top Paste                               
+.GTP3               Top Paste                               
+.GTP4               Top Paste                               
+.GTP5               Top Paste                               
+.GTP6               Top Paste                               
+.GTP7               Top Paste                               
+.GTP8               Top Paste                               
+.GTP9               Top Paste                               
+.GTP10              Top Paste                               
+.GTP11              Top Paste                               
+.GTP12              Top Paste                               
+.GTP13              Top Paste                               
+.GTP14              Top Paste                               
+.GTP15              Top Paste                               
+.GTP16              Top Paste                               
+.GTP17              Top Paste                               
+.GTP18              Top Paste                               
+.GTP19              Top Paste                               
+.GTP20              Top Paste                               
+.GTP21              Top Paste                               
+.GTP22              Top Paste                               
+.GTP23              Top Paste                               
+.GTP24              Top Paste                               
+.GTP25              Top Paste                               
+.GTP26              Top Paste                               
+.GTP27              Top Paste                               
+.GTP28              Top Paste                               
+.GTP29              Top Paste                               
+.GTP30              Top Paste                               
+.GTP31              Top Paste                               
+.GTP32              Top Paste                               
+.GTP33              Top Paste                               
+.GTS                Top Solder                              
+.GTS1               Top Solder                              
+.GTS2               Top Solder                              
+.GTS3               Top Solder                              
+.GTS4               Top Solder                              
+.GTS5               Top Solder                              
+.GTS6               Top Solder                              
+.GTS7               Top Solder                              
+.GTS8               Top Solder                              
+.GTS9               Top Solder                              
+.GTS10              Top Solder                              
+.GTS11              Top Solder                              
+.GTS12              Top Solder                              
+.GTS13              Top Solder                              
+.GTS14              Top Solder                              
+.GTS15              Top Solder                              
+.GTS16              Top Solder                              
+.GTS17              Top Solder                              
+.GTS18              Top Solder                              
+.GTS19              Top Solder                              
+.GTS20              Top Solder                              
+.GTS21              Top Solder                              
+.GTS22              Top Solder                              
+.GTS23              Top Solder                              
+.GTS24              Top Solder                              
+.GTS25              Top Solder                              
+.GTS26              Top Solder                              
+.GTS27              Top Solder                              
+.GTS28              Top Solder                              
+.GTS29              Top Solder                              
+.GTS30              Top Solder                              
+.GTS31              Top Solder                              
+.GTS32              Top Solder                              
+.GTS33              Top Solder                              
+.GBS                Bottom Solder                           
+.GBS1               Bottom Solder                           
+.GBS2               Bottom Solder                           
+.GBS3               Bottom Solder                           
+.GBS4               Bottom Solder                           
+.GBS5               Bottom Solder                           
+.GBS6               Bottom Solder                           
+.GBS7               Bottom Solder                           
+.GBS8               Bottom Solder                           
+.GBS9               Bottom Solder                           
+.GBS10              Bottom Solder                           
+.GBS11              Bottom Solder                           
+.GBS12              Bottom Solder                           
+.GBS13              Bottom Solder                           
+.GBS14              Bottom Solder                           
+.GBS15              Bottom Solder                           
+.GBS16              Bottom Solder                           
+.GBS17              Bottom Solder                           
+.GBS18              Bottom Solder                           
+.GBS19              Bottom Solder                           
+.GBS20              Bottom Solder                           
+.GBS21              Bottom Solder                           
+.GBS22              Bottom Solder                           
+.GBS23              Bottom Solder                           
+.GBS24              Bottom Solder                           
+.GBS25              Bottom Solder                           
+.GBS26              Bottom Solder                           
+.GBS27              Bottom Solder                           
+.GBS28              Bottom Solder                           
+.GBS29              Bottom Solder                           
+.GBS30              Bottom Solder                           
+.GBS31              Bottom Solder                           
+.GBS32              Bottom Solder                           
+.GBS33              Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
+.GM13               Dimensions                              
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------
