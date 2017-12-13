@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Signal + 1 Pin=PC-1-H1_3
+Removed Pin From Net: NetName=Signal + 2 Pin=PC-1-H1_4
+Removed Pin From Net: NetName=Signal + 4 Pin=PC-1-H1_6
+Removed Pin From Net: NetName=Signal + 5 Pin=PC-1-H1_7
+Removed Pin From Net: NetName=Vcc Pin=PC-1-H1_51
+Removed Pin From Net: NetName=V2 Pin=PC-1-H1_52
+Added Pin To Net: NetName=Signal + 1 Pin=PC-1-H1_1
+Added Pin To Net: NetName=Signal + 2 Pin=PC-1-H1_3
+Added Pin To Net: NetName=Signal + 4 Pin=PC-1-H1_7
+Added Pin To Net: NetName=Signal + 5 Pin=PC-1-H1_9
+Added Pin To Net: NetName=V2 Pin=PC-1-H2_26
+Added Pin To Net: NetName=Vcc Pin=PC-1-H2_46
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component 2 HighVoltageHeader
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component D7 S1J-13-F
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component P5 53261-0271
+Added Member To Class: ClassName=MultiSpikeHoldSchem Member=Component PC-1 PC-104
